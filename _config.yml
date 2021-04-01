@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Mokoko"
-  avatar           : "assets/mokoko-icon.jpg"
+  avatar           : "/assets/mokoko-icon.jpg"
   bio              : "I am **Mokoko.**"
   location         : "Repulbic of Korea"
   email            :
